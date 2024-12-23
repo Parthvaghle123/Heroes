@@ -1,0 +1,24 @@
+.hero-section{
+    min-height: 480px;
+}
+.hero-section1{
+    min-height: 50px;
+    background-color: rgb(196, 194, 194);
+}
+.hero-section2{
+    min-height: 550px;
+}
+.p{
+    color: gray;
+}
+.bt{
+    color: lightblue;
+}
+.box{
+    border: 1px solid #ccc;
+    min-height: 200px;
+}
+.hero-section3{
+    min-height: 500px;
+    background-color: white;
+}
